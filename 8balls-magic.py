@@ -1,4 +1,5 @@
 # Import the modules
+print("  ***8 BALL MAGIC***  )
 import sys
 import random
 #how to improve such if else logic with contineous QA?
